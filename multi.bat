@@ -19,9 +19,10 @@ cd /d "%~dp0"
 
 :: Das PowerShell-Skript starten (Name eventuell anpassen!)
 echo waiting 5 sec for Roblox to start...
+echo make sure to gift IlIonlyIlI a little surprise if u play pet sim 99 xD
 timeout /t 5
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File "multiroblox.ps1"
 
 echo.
-echo Fertig!
+echo done!
 pause
